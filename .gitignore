@@ -1,0 +1,15 @@
+*root
+*log
+*err
+*out
+*error
+*tgz
+*png
+*pdf
+*eps
+*gif
+*lhe
+*csh
+*.pyc
+*.py~
+*~
