@@ -1,0 +1,8 @@
+/store/user/snandan/W1/
+/store/user/snandan/W2/
+/store/user/snandan/W3/
+/store/user/snandan/W4/
+/store/user/snandan/DY2/
+/store/user/snandan/DY3/
+/store/user/snandan/DY4/
+/store/user/snandan/DY1/

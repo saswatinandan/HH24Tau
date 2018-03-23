@@ -1,0 +1,16 @@
+/store/user/snandan/Moriond17/Data/EG/DoubleEG/crab_DoubleEG_Run2016B-03Feb2017_ver2-v2/170416_023322/0000
+/store/user/snandan/Moriond17/Data/EG/DoubleEG/crab_DoubleEG_Run2016B-03Feb2017_ver2-v2/170416_023322/0001
+/store/user/snandan/Moriond17/Data/EG/DoubleEG/crab_DoubleEG_Run2016B-03Feb2017_ver2-v2/170416_023322/0002
+/store/user/snandan/Moriond17/Data/EG/DoubleEG/crab_DoubleEG_Run2016C-03Feb2017-v1/170416_023352/0000
+/store/user/snandan/Moriond17/Data/EG/DoubleEG/crab_DoubleEG_Run2016D-03Feb2017-v1/170416_023422/0000
+/store/user/snandan/Moriond17/Data/EG/DoubleEG/crab_DoubleEG_Run2016D-03Feb2017-v1/170416_023422/0001
+/store/user/snandan/Moriond17/Data/EG/DoubleEG/crab_DoubleEG_Run2016E-03Feb2017-v1/170416_023452/0000
+/store/user/snandan/Moriond17/Data/EG/DoubleEG/crab_DoubleEG_Run2016E-03Feb2017-v1/170416_023452/0001
+/store/user/snandan/Moriond17/Data/EG/DoubleEG/crab_DoubleEG_Run2016F-03Feb2017-v1/170416_023522/0000
+/store/user/snandan/Moriond17/Data/EG/DoubleEG/crab_DoubleEG_Run2016G-03Feb2017-v1/170416_023222/0000
+/store/user/snandan/Moriond17/Data/EG/DoubleEG/crab_DoubleEG_Run2016G-03Feb2017-v1/170416_023222/0001
+/store/user/snandan/Moriond17/Data/EG/DoubleEG/crab_DoubleEG_Run2016G-03Feb2017-v1/170416_023222/0002
+/store/user/snandan/Moriond17/Data/EG/DoubleEG/crab_DoubleEG_Run2016H-03Feb2017_ver2-v1/170416_023550/0000
+/store/user/snandan/Moriond17/Data/EG/DoubleEG/crab_DoubleEG_Run2016H-03Feb2017_ver2-v1/170416_023550/0001
+/store/user/snandan/Moriond17/Data/EG/DoubleEG/crab_DoubleEG_Run2016H-03Feb2017_ver2-v1/170416_023550/0002
+/store/user/snandan/Moriond17/Data/EG/DoubleEG/crab_DoubleEG_Run2016H-03Feb2017_ver3-v1/170416_023620/0000

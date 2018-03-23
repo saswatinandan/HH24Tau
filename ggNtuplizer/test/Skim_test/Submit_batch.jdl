@@ -1,0 +1,17 @@
+universe = vanilla
+Executable = Submit_run.sh 
+Requirements = OpSys == "LINUX" && (Arch != "DUMMY" )
+request_disk = 200000000
+request_memory = 6000
+should_transfer_files = YES
+WhenTOTransferOutput  = ON_EXIT
+notify_user = ${LOGNAME}@FNAL.GOV
+runPath = /uscms_data/d3/snandan/CMSSW_8_0_26_patch1/src/ggAnalysis/ggNtuplizer/test/Skim_test
+myLogFolder = condor/output/HH
+outPath = /eos/uscms/store/user/snandan/skim_test/HH_test
+Output = $(runPath)/$(myLogFolder)/batch_$(cluster)_$(process).stdout
+Error  = $(runPath)/$(myLogFolder)/batch_$(cluster)_$(process).stderr
+Log    = $(runPath)/$(myLogFolder)/batch_$(cluster)_$(process).condor
+x509userproxy = $ENV(X509_USER_PROXY)
+Arguments = $(cluster) $(process) $(runPath) $(outPath)
+Queue 10

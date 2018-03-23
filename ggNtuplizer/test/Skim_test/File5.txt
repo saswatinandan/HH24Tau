@@ -1,0 +1,16 @@
+/store/user/abdollah/Moriond17/Data/SingleMuon/crab_SingleMuon_Run2016B-03Feb2017_ver2-v2/170224_210211/0000
+/store/user/abdollah/Moriond17/Data/SingleMuon/crab_SingleMuon_Run2016B-03Feb2017_ver2-v2/170224_210211/0001
+/store/user/abdollah/Moriond17/Data/SingleMuon/crab_SingleMuon_Run2016B-03Feb2017_ver2-v2/170224_210211/0002
+/store/user/abdollah/Moriond17/Data/SingleMuon/crab_SingleMuon_Run2016C-03Feb2017-v1/170224_210238/0000
+/store/user/abdollah/Moriond17/Data/SingleMuon/crab_SingleMuon_Run2016D-03Feb2017-v1/170224_210304/0000
+/store/user/abdollah/Moriond17/Data/SingleMuon/crab_SingleMuon_Run2016D-03Feb2017-v1/170224_210304/0001
+/store/user/abdollah/Moriond17/Data/SingleMuon/crab_SingleMuon_Run2016E-03Feb2017-v1/170224_210331/0000
+/store/user/abdollah/Moriond17/Data/SingleMuon/crab_SingleMuon_Run2016E-03Feb2017-v1/170224_210331/0001
+/store/user/abdollah/Moriond17/Data/SingleMuon/crab_SingleMuon_Run2016F-03Feb2017-v1/170224_210357/0000
+/store/user/abdollah/Moriond17/Data/SingleMuon/crab_SingleMuon_Run2016G-03Feb2017-v1/170224_210421/0000
+/store/user/abdollah/Moriond17/Data/SingleMuon/crab_SingleMuon_Run2016G-03Feb2017-v1/170224_210421/0001
+/store/user/abdollah/Moriond17/Data/SingleMuon/crab_SingleMuon_Run2016G-03Feb2017-v1/170224_210421/0002
+/store/user/abdollah/Moriond17/Data/SingleMuon/crab_SingleMuon_Run2016H-03Feb2017_ver2-v1/170224_210447/0000
+/store/user/abdollah/Moriond17/Data/SingleMuon/crab_SingleMuon_Run2016H-03Feb2017_ver2-v1/170224_210447/0001
+/store/user/abdollah/Moriond17/Data/SingleMuon/crab_SingleMuon_Run2016H-03Feb2017_ver2-v1/170224_210447/0002
+/store/user/abdollah/Moriond17/Data/SingleMuon/crab_SingleMuon_Run2016H-03Feb2017_ver3-v1/170224_210511/0000

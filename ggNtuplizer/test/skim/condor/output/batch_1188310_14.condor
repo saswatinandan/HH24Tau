@@ -1,0 +1,58 @@
+000 (1188310.014.000) 03/17 07:53:12 Job submitted from host: <131.225.190.108:5160?addrs=131.225.190.108-5160>
+...
+001 (1188310.014.000) 03/17 07:55:09 Job executing on host: <131.225.204.48:42581?addrs=131.225.204.48-42581>
+...
+006 (1188310.014.000) 03/17 07:55:18 Image size of job updated: 3
+	3  -  MemoryUsage of job (MB)
+	2512  -  ResidentSetSize of job (KB)
+...
+006 (1188310.014.000) 03/17 07:56:19 Image size of job updated: 634916
+	104  -  MemoryUsage of job (MB)
+	106180  -  ResidentSetSize of job (KB)
+...
+006 (1188310.014.000) 03/17 07:57:20 Image size of job updated: 634920
+	104  -  MemoryUsage of job (MB)
+	106180  -  ResidentSetSize of job (KB)
+...
+006 (1188310.014.000) 03/17 08:00:20 Image size of job updated: 634920
+	104  -  MemoryUsage of job (MB)
+	106204  -  ResidentSetSize of job (KB)
+...
+006 (1188310.014.000) 03/17 08:22:30 Image size of job updated: 717848
+	117  -  MemoryUsage of job (MB)
+	119440  -  ResidentSetSize of job (KB)
+...
+006 (1188310.014.000) 03/17 08:32:36 Image size of job updated: 773316
+	117  -  MemoryUsage of job (MB)
+	119440  -  ResidentSetSize of job (KB)
+...
+006 (1188310.014.000) 03/17 08:35:36 Image size of job updated: 773316
+	148  -  MemoryUsage of job (MB)
+	151132  -  ResidentSetSize of job (KB)
+...
+006 (1188310.014.000) 03/17 09:31:04 Image size of job updated: 803644
+	193  -  MemoryUsage of job (MB)
+	197620  -  ResidentSetSize of job (KB)
+...
+006 (1188310.014.000) 03/17 09:40:09 Image size of job updated: 807276
+	193  -  MemoryUsage of job (MB)
+	197620  -  ResidentSetSize of job (KB)
+...
+006 (1188310.014.000) 03/17 10:53:46 Image size of job updated: 837060
+	193  -  MemoryUsage of job (MB)
+	197620  -  ResidentSetSize of job (KB)
+...
+004 (1188310.014.000) 03/17 11:18:54 Job was evicted.
+	(0) Job was not checkpointed.
+		Usr 0 00:00:09, Sys 0 00:00:02  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	11465  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage   Request Allocated
+	   Cpus                 :                  1         1
+	   Disk (KB)            :      950 200000000 202760343
+	   Memory (MB)          :      193      6000      6000
+...
+009 (1188310.014.000) 03/17 11:18:55 Job was aborted by the user.
+	via condor_rm (by user snandan)
+...

@@ -1,0 +1,14 @@
+universe = vanilla
+Executable = Submitnew_run.sh 
+Requirements = OpSys == "LINUX" && (Arch != "DUMMY" )
+request_disk = 200000000
+request_memory = 6000
+should_transfer_files = YES
+WhenTOTransferOutput  = ON_EXIT
+notify_user = ${LOGNAME}@FNAL.GOV
+x509userproxy = $ENV(X509_USER_PROXY)
+Output = sleep_\$(Cluster)_\$(Process).stdout
+Error = sleep_\$(Cluster)_\$(Process).stderr
+Log = sleep_\$(Cluster)_\$(Process).log
+Arguments = $(cluster) $(process)
+Queue 10

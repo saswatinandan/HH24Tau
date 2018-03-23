@@ -1,0 +1,16 @@
+/store/user/snandan/Data19/DoubleMuon/crab_DoubleMuon_Run2016B-03Feb2017_ver2-v2/170419_160133/0000
+/store/user/snandan/Data19/DoubleMuon/crab_DoubleMuon_Run2016B-03Feb2017_ver2-v2/170419_160133/0001
+/store/user/snandan/Data19/DoubleMuon/crab_DoubleMuon_Run2016B-03Feb2017_ver2-v2/170419_160133/0002
+/store/user/snandan/Data19/DoubleMuon/crab_DoubleMuon_Run2016C-03Feb2017-v1/170419_160208/0000
+/store/user/snandan/Data19/DoubleMuon/crab_DoubleMuon_Run2016D-03Feb2017-v1/170419_160239/0000
+/store/user/snandan/Data19/DoubleMuon/crab_DoubleMuon_Run2016D-03Feb2017-v1/170419_160239/0001
+/store/user/snandan/Data19/DoubleMuon/crab_DoubleMuon_Run2016E-03Feb2017-v1/170419_160308/0000
+/store/user/snandan/Data19/DoubleMuon/crab_DoubleMuon_Run2016E-03Feb2017-v1/170419_160308/0001
+/store/user/snandan/Data19/DoubleMuon/crab_DoubleMuon_Run2016F-03Feb2017-v1/170419_160338/0000
+/store/user/snandan/Data19/DoubleMuon/crab_DoubleMuon_Run2016G-03Feb2017-v1/170419_160408/0000
+/store/user/snandan/Data19/DoubleMuon/crab_DoubleMuon_Run2016G-03Feb2017-v1/170419_160408/0001
+/store/user/snandan/Data19/DoubleMuon/crab_DoubleMuon_Run2016G-03Feb2017-v1/170419_160408/0002
+/store/user/snandan/Data19/DoubleMuon/crab_DoubleMuon_Run2016H-03Feb2017_ver2-v1/170419_160441/0000
+/store/user/snandan/Data19/DoubleMuon/crab_DoubleMuon_Run2016H-03Feb2017_ver2-v1/170419_160441/0001
+/store/user/snandan/Data19/DoubleMuon/crab_DoubleMuon_Run2016H-03Feb2017_ver2-v1/170419_160441/0002
+/store/user/snandan/Data19/DoubleMuon/crab_DoubleMuon_Run2016H-03Feb2017_ver3-v1/170419_160511/0000
